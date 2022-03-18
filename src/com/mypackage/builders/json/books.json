@@ -1,0 +1,31 @@
+{
+    "books": {
+        "currentBook": {
+            "title": "Orgoglio e Pregiudizio",
+            "isbn": "978-0-145",
+            "author": {
+                "first": "Timothy",
+                "last": "Ferris",
+                "twitter": "@timothyFerris"
+            },
+            "related": [
+                "The 4 Hour Body",
+                "The 4 hour chef"
+            ]
+        },
+        "nextBook": {
+            "title": "The Ones",
+            "isbn": "554-0-145",
+            "author": {
+                "first": "Linda",
+                "last": "Hope",
+                "twitter": "@hopeless"
+            },
+            "related": [
+                "Dreaming",
+                "Dinasty",
+                "Ciaone"
+            ]
+        }
+    }
+}
